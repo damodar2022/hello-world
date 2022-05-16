@@ -1,6 +1,6 @@
 <form action="process.jsp">
-<input type="text" your name="uname" value="Name..." onclick="this.value=''"/><br/>
-<input type="text" you name="uemail"  value="Email ID..." onclick="this.value=''"/><br/>
-<input type="password" you name="upass"  value="Password..." onclick="this.value=''"/><br/>
+<input type="text" name="uname" value="Your Name..." onclick="this.value=''"/><br/>
+<input type="text" name="uemail"  value="Your Email ID..." onclick="this.value=''"/><br/>
+<input type="password" name="upass"  value="Your Password..." onclick="this.value=''"/><br/>
 <input type="submit" value="register"/>
 </form>
