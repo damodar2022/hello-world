@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Employee Registration form  updated this info</h1>
+    <h1>Persistent Employee Registration form</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thank you</h1>
+   <h1> Thank you guis</h1>
 
   
 </form>
