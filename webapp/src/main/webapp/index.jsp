@@ -7,8 +7,8 @@
 <title>Persistent Employee Registration Form</title>
 </head>
 <body>
-<h1>Persistent Employee Register Form</h1>
 <center>
+<h1>Persistent Employee Register Form</h1>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
