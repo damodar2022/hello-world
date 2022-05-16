@@ -8,6 +8,7 @@
 </head>
 <body>
 <h1>Persistent Employee Register Form</h1>
+<center>
 <form action="guru_register" method="post">
 			<table style="with: 50%">
 				<tr>
@@ -35,5 +36,6 @@
 					<td><input type="text" name="contact" /></td>
 				</tr></table>
 			<input type="submit" value="Submit" /></form>
+</center>
 </body>
 </html>
